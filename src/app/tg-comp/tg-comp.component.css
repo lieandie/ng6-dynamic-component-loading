@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(126, 123, 123, 0.301);
+    padding: 16px;
+}
+
+.target {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap
+}

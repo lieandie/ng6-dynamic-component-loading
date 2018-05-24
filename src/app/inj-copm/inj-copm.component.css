@@ -1,0 +1,16 @@
+.window {
+    margin: 6px;
+    background-color: #fff;
+    max-width: 256px;
+    box-shadow: 0 0 10px rgba(66, 66, 66, 0.438);
+}
+
+.window-header {
+    color: #fff;
+    padding: 6px;
+    background-color: rgb(5, 4, 105);
+}
+
+.window-body {
+    padding: 12px;
+}
